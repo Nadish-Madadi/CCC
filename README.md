@@ -1,2 +1,2 @@
 # CCC
-A variety of completed CCC questions by me
+A variety of completed CCC questions
